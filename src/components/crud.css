@@ -1,0 +1,29 @@
+.nav {
+    background: #000;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    margin: auto;
+    padding-top: 72px;
+}
+
+.body {
+    background: #1a1a1a;
+    height: 500px;
+    padding-top: 50px;
+}
+
+.card-body {
+    background: #262626;
+    border: 1px solid #333333;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+}
+
+
+label {
+    color: white;
+}
